@@ -9,9 +9,9 @@ Most importantly the app is specific for UH students, who already have the finan
 
 ## Concept pages
 <img height="50%" width="50%" src = "/images/Landing.jpeg">
-<img height="50%" width="50%" src = "/images/Profile.jpeg">
-<img height="50%" width="50%" src = "/images/Search.jpeg">
-<img height="50%" width="50%" src = "/images/SignIn.jpeg">
-<img height="50%" width="50%" src = "/images/UserEmployee.jpeg">
-<img height="50%" width="50%" src = "/images/UserEmployer.jpeg">
-<img height="50%" width="50%" src = "/images/UserEmployeeEmployer.jpeg">
+<img height="50%" width="50%" src = "/images/Profile.jpg">
+<img height="50%" width="50%" src = "/images/Search.jpg">
+<img height="50%" width="50%" src = "/images/SignIn.jpg">
+<img height="50%" width="50%" src = "/images/UserEmployee.jpg">
+<img height="50%" width="50%" src = "/images/UserEmployer.jpg">
+<img height="50%" width="50%" src = "/images/UserEmployerEmployer.jpg">
