@@ -8,4 +8,4 @@ The Small Kine Jobs app will be used to help students who would like to find sho
 Most importantly the app is specific for UH students, who already have the financial burden of funding their education.
 
 ## Concept pages
-![Landing Page Picture](smallkinejobs.github.io/images/Landing.jpeg =100x20)
+<img class="tiny medium left image" src ="/images/Landing.jpeg">
