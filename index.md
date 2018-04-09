@@ -15,3 +15,6 @@ Most importantly the app is specific for UH students, who already have the finan
 <img height="50%" width="50%" src = "/images/UserEmployee.jpg">
 <img height="50%" width="50%" src = "/images/UserEmployer.jpg">
 <img height="50%" width="50%" src = "/images/UserEmployerEmployee.jpg">
+
+## Application models
+<img height="50%" width="50%" src = "/images/models.jpg">
