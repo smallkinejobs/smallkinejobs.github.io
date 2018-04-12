@@ -13,17 +13,23 @@ Most importantly the app is specific for UH students, who already have the finan
 <img class="ui left floated image" height="75%" width="75%" src = "/images/landing_page1.png">
 The landing page greets users with a set of aesthetically pleasing rolling video clips and a large search bar allowing users to search for jobs by title.
 
-<img class="ui left floated image" height="75%" width="75%" src = "/images/landing_page2.png">
+<img class="ui left floated image" height="75%" width="75%" src = "/images/landinginstructionsupdated.png">
 Below the search block, we have a simple 3 step description of how to use the site. Users simply create a profile, search for/post job openings, and then apply for, get hired/hire new candidates, and start working!!
 
-<img class="ui left floated image" height="75%" width="75%" src = "/images/landing_page3.png">
+<img class="ui left floated image" height="75%" width="75%" src = "/images/landingpagedesctiptionupdated.png">
+Below that we have a small description of what the service to the community the app provides.
+
+<img class="ui left floated image" height="75%" width="75%" src = "/images/test.png">
+Then at the bottom of the landing page we finally have the testimonials component, which updates when people who like small kine jobs give a review of the site. 
 
 ### The User Profile Page
 
 <img class="ui left floated image" height="75%" width="75%" src = "/images/profile_page.png">
 
+### The Login Page
+<img class="ui left floated image" height="75%" width="75%" src = "/images/login.png">
 ## Concept pages
-<img height="50%" width="50%" src = "/images/Landing.jpeg">
+<img height="50%" width="50%" src = "/images/Landing.jpeg">land
 <img height="50%" width="50%" src = "/images/Profile.jpg">
 <img height="50%" width="50%" src = "/images/Search.jpg">
 <img height="50%" width="50%" src = "/images/SignIn.jpg">
