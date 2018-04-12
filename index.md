@@ -13,7 +13,7 @@ Most importantly the app is specific for UH students, who already have the finan
 <img class="ui left floated image" height="75%" width="75%" src = "/images/landing_page1.png">
 The landing page greets users with a set of aesthetically pleasing rolling video clips and a large search bar allowing users to search for jobs by title.
 
-<img class="ui left floated image" height="75%" width="75%" src = "/images/landinginstructionsupdate.PNG>
+<img class="ui left floated image" height="75%" width="75%" src = "/images/landinginstructionsupdate.PNG">
 Below the search block, we have a simple 3 step description of how to use the site. Users simply create a profile, search for/post job openings, and then apply for, get hired/hire new candidates, and start working!!
 
 <img class="ui left floated image" height="75%" width="75%" src = "/images/landingpagedescriptionupdated.PNG">
