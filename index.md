@@ -16,7 +16,7 @@ The landing page greets users with a set of aesthetically pleasing rolling video
 <img class="ui left floated image" height="75%" width="75%" src = "/images/landinginstructionsupdated.PNG>
 Below the search block, we have a simple 3 step description of how to use the site. Users simply create a profile, search for/post job openings, and then apply for, get hired/hire new candidates, and start working!!
 
-<img class="ui left floated image" height="75%" width="75%" src = "/images/landingpagedesctiptionupdated.PNG">
+<img class="ui left floated image" height="75%" width="75%" src = "/images/landingpagedescriptionupdated.PNG">
 Below that we have a small description of what the service to the community the app provides.
 
 <img class="ui left floated image" height="75%" width="75%" src = "/images/test.PNG">
