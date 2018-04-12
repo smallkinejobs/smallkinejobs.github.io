@@ -10,16 +10,16 @@ Most importantly the app is specific for UH students, who already have the finan
 ## Milestone 1: Mock Up React Semantic UI implementation of Pages
 
 ### The Landing Page
-<img height="50%" width="50%" src = "/images/landing_page1.png">
+<img class="ui left floated image" height="50%" width="50%" src = "/images/landing_page1.png">
 The landing page greets users with a set of aesthetically pleasing rolling video clips and a large search bar allowing users to search for jobs by title.
 
-<img height="50%" width="50%" src = "/images/landing_page2.png">
+<img class="ui left floated image" height="50%" width="50%" src = "/images/landing_page2.png">
 
-<img height="50%" width="50%" src = "/images/landing_page3.png">
+<img class="ui left floated image" height="50%" width="50%" src = "/images/landing_page3.png">
 
 ### The User Profile Page
 
-<img height="50%" width="50%" src = "/images/profile_page.png">
+<img class="ui left floated image" height="50%" width="50%" src = "/images/profile_page.png">
 
 ## Concept pages
 <img height="50%" width="50%" src = "/images/Landing.jpeg">
