@@ -10,24 +10,31 @@ Most importantly the app is specific for UH students, who already have the finan
 ## Milestone 1: Mock Up React Semantic UI implementation of Pages
 
 ### The Landing Page
-<img class="ui left floated image" height="75%" width="75%" src = "/images/landing_page1.png">
-The landing page greets users with a set of aesthetically pleasing rolling video clips and a large search bar allowing users to search for jobs by title.
 
-<img class="ui left floated image" height="75%" width="75%" src = "/images/landinginstructionsupdate.PNG">
-Below the search block, we have a simple 3 step description of how to use the site. Users simply create a profile, search for/post job openings, and then apply for, get hired/hire new candidates, and start working!!
+<img class="ui left floated image" height="75%" width="75%" src = "/images/landingpagedraft2.PNG">
+The first thing that the user sees is the option to sign up for the application. That way they can start their job/employee search as soon as possible
 
-<img class="ui left floated image" height="75%" width="75%" src = "/images/landingpagedescriptionupdated.PNG">
-Below that we have a small description of what the service to the community the app provides.
 
-<img class="ui left floated image" height="75%" width="75%" src = "/images/test.PNG">
+<img class="ui left floated image" height="75%" width="75%" src = "/images/landingpagetestimonialsdraft.PNG">
 Then at the bottom of the landing page we finally have the testimonials component, which updates when people who like small kine jobs give a review of the site. 
+
+### The sign up page for employees
+
+<img class="ui left floated image" height="75%" width="75%" src = "/images/employeesignupdraft.png">
+Here employees can list their skills as well as basic information for employers to see
+
+### The sign up page for employers
+
+<img class="ui left floated image" height="75%" width="75%" src = "/images/employersignupdraft.png">
+Here employers can put their contact information
 
 ### The User Profile Page
 
 <img class="ui left floated image" height="75%" width="75%" src = "/images/profile_page.png">
 
 ### The Login Page
-<img class="ui left floated image" height="75%" width="75%" src = "/images/login.PNG">
+<img class="ui left floated image" height="75%" width="75%" src = "/images/logindraft.PNG">
+
 ## Concept pages
 <img height="50%" width="50%" src = "/images/Landing.jpeg">land
 <img height="50%" width="50%" src = "/images/Profile.jpg">
