@@ -20,12 +20,12 @@ Then at the bottom of the landing page we finally have the testimonials componen
 
 ### The sign up page for employees
 
-<img class="ui left floated image" height="75%" width="75%" src = "/images/employeesignupdraft.png">
+<img class="ui left floated image" height="75%" width="75%" src = "/images/employeesignupdraft.PNG">
 Here employees can list their skills as well as basic information for employers to see
 
 ### The sign up page for employers
 
-<img class="ui left floated image" height="75%" width="75%" src = "/images/employersignupdraft.png">
+<img class="ui left floated image" height="75%" width="75%" src = "/images/employersignupdraft.PNG">
 Here employers can put their contact information
 
 ### The User Profile Page
