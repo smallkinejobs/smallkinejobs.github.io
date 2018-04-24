@@ -1,7 +1,9 @@
 ## What Kine Jobs? Small Kine Jobs!
 
-<a href="https://github.com/smallkinejobs/application">Link to the application repository</a>
-<a href="http://smallkinejobs.meteorapp.com/">Link to the deployed application</a>
+<ul>
+  <li><a href="https://github.com/smallkinejobs/application">Link to the application repository</a></li>
+  <li><a href="http://smallkinejobs.meteorapp.com/">Link to the deployed application</a></li>
+</ul>
 
 ### Small Kine Description
 The Small Kine Jobs app will be used to help students who would like to find short term employment. Reasons for needing short term employment could be: The student is only at the University for a year or less, a student needing quick cash, or even if an employer needs an employee for a short period of time. This app would provide a quick and easy outlet to find an employer/employee without having to go to a temporary job agency, which can sometimes have long replying periods or sometimes too many applicants. 
