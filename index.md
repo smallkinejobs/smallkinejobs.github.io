@@ -3,8 +3,9 @@
 * [Link to the application repository]("https://github.com/smallkinejobs/application")
 * [Milestone 1 project board]("https://github.com/smallkinejobs/application/projects/1")
 * [Milestone 2 project board]("https://github.com/smallkinejobs/application/projects/2")
+* Click the UH Logo to go to our app 
+  [![button](/images/uhshaka.jpg)](http://smallkinejobs.meteorapp.com/)
 
-[![button](/images/uhshaka.jpg)](http://smallkinejobs.meteorapp.com/)
 
 ## Small Kine Description
 The Small Kine Jobs app will be used to help students who would like to find short term employment. Reasons for needing short term employment could be: The student is only at the University for a year or less, a student needing quick cash, or even if an employer needs an employee for a short period of time. This app would provide a quick and easy outlet to find an employer/employee without having to go to a temporary job agency, which can sometimes have long replying periods or sometimes too many applicants. 
