@@ -1,7 +1,7 @@
 # What Kine Jobs? Small Kine Jobs!
 
-* <a href="https://github.com/smallkinejobs/application">Link to the application repository</a>
-* <a href="https://github.com/smallkinejobs/application/projects/1">Milestone 1 project board</a>
+* [Link to the application repository](https://github.com/smallkinejobs/application)
+* [Milestone 1 project board](https://github.com/smallkinejobs/application/projects/1)
 * [Milestone 2 project board](https://github.com/smallkinejobs/application/projects/2)
 * Click Small Kine Jobs logo to go to the app!
 
