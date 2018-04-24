@@ -12,25 +12,21 @@ Most importantly the app is specific for UH students, who already have the finan
 ## User Guide
 
 ### The Landing Page
-![Image of Landing Page] 
-("/images/landingpagedraft2.PNG")
+![Image of Landing Page]("/images/landingpagedraft2.PNG")
 The first thing that the user sees is the option to sign up for the application. That way they can start their job/employee search as soon as possible
 
 
-![Image of Landing Page Testimonial]
-("/images/landingpagetestimonialsdraft.PNG")
+![Image of Landing Page Testimonial]("/images/landingpagetestimonialsdraft.PNG")
 Then at the bottom of the landing page we finally have the testimonials component, which updates when people who like small kine jobs give a review of the site. 
 
 ### The sign up page for employees
 
-![Image of Employee Sign Up Page]
-("/images/employeesignupdraft.PNG")
+![Image of Employee Sign Up Page]("/images/employeesignupdraft.PNG")
 Here employees can list their skills as well as basic information for employers to see
 
 ### The sign up page for employers
 
-![Image of Employer Sign Up Page]
-("/images/employersignupdraft.PNG")
+![Image of Employer Sign Up Page]("/images/employersignupdraft.PNG")
 Here employers can add their contact information
 
 ### The User Profile Page
