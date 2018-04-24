@@ -3,7 +3,9 @@
 * [Link to the application repository]("https://github.com/smallkinejobs/application")
 * [Milestone 1 project board]("https://github.com/smallkinejobs/application/projects/1")
 * [Milestone 2 project board]("https://github.com/smallkinejobs/application/projects/2")
-* Click the UH Logo to go to our app [![button](/images/uhshaka.jpg)](http://smallkinejobs.meteorapp.com/)
+* Click the UH Logo to go to our app
+
+ [![button](/images/uhshaka.jpg)](http://smallkinejobs.meteorapp.com/)
   
 
 
