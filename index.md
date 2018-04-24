@@ -1,8 +1,8 @@
 # What Kine Jobs? Small Kine Jobs!
 
 * <a href="https://github.com/smallkinejobs/application">Link to the application repository</a>
-* [Milestone 1 project board]("https://github.com/smallkinejobs/application/projects/1")
-* [Milestone 2 project board]("https://github.com/smallkinejobs/application/projects/2")
+* <a href="https://github.com/smallkinejobs/application/projects/1">Milestone 1 project board</a>
+* [Milestone 2 project board](https://github.com/smallkinejobs/application/projects/2)
 * Click Small Kine Jobs logo to go to the app!
 
  [![button](/images/smallkinelogo.PNG)](http://smallkinejobs.meteorapp.com/)
