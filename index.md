@@ -14,7 +14,7 @@ The Small Kine Jobs app will be used to help students who would like to find sho
 Most importantly the app is specific for UH students, who already have the financial burden of funding their education.
 
 ## User Guide
-Users can go onto the [Small Kine Jobs Website](smallkinejobs.meteorapp.com) and they'll reach the landing page.
+Users can go onto the [Small Kine Jobs Website]("smallkinejobs.meteorapp.com") and they'll reach the landing page.
 
 ### The Landing Page
 ![Image of Landing Page](/images/landingpagedraft2.PNG)
