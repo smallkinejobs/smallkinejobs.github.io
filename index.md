@@ -29,12 +29,24 @@ Here employees can list their skills as well as basic information for employers 
 ![Image of Employer Sign Up Page](/images/employersignupdraft.PNG)
 Here employers can add their contact information
 
-### The User Profile Page
-
-<img class="ui left floated image" height="75%" width="75%" src = "/images/profile_page.png">
-
 ### The Login Page
-<img class="ui left floated image" height="75%" width="75%" src = "/images/logindraft.PNG">
+![Image of Sign In Page](/images/sign_in.png)
+Once you have created your account, sign in here by entering your username and password.
+
+### The Employer Landing Page
+![Image of Employer Landing Page](/images/employer_landing.png)
+If you are logged in as an employer, you are greeted with a list of the jobs that you have posted on the system. Each job card is decorated to indicate its current status. Jobs can be open/closed for applications, in progress, or completed. Employers are able to submit feedback on completed jobs to rate the performance of the individual(s) who completed that job.
+
+### Create Job Modal
+![Image of Create Job Modal](/images/pos_job_modal.png)
+By clicking the 'Create New Job' button on the top right of the page, employers are able to add a new Job to the system using the corresponding form displayed in the Modal that pops up.
+
+### The Employee Landing Page
+![Image of Employee Landing Page](/images/employee_landing.png)
+If you are logged in as an employee, you are greeted with a list of the jobs which you have applied for, as well as their current status. By scrolling down, you can also view a list of recommended jobs, based on matches between the required skills for the job, and the skills you have listed in your profile.
+
+![Image of Landing Page Sidebar](/images/landing_sidebar.png)
+By pressing the menu button on the top left, a sidebar appears displaying some of your account info, including your average rating performance on previously completed jobs, how much money you have made through the site, your number of completed jobs, as well as your username and profile photo.
 
 ## Concept pages
 <img height="50%" width="50%" src = "/images/Landing.jpeg">land
