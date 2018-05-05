@@ -75,7 +75,10 @@ If the installation is successful you will be able to run the app by navigating 
 
 ### Modifiying the Source Code
 
-If you would like to contribute to the project, be sure to create a fork of the repository so that you have your own remote copy. The primary maintainers of the project utilize the github Pull request system for issuing commits to the base branch of the repository. If you would like to implement a new feature or bug fix, create a new branch on your local repository, implement the feature, push the changes to your fork, and then issue a pull request from the fork to the master branch at [the Small Kine Jobs github repository](https://github.com/smallkinejobs/application). Pull requests will be accepted and merged pending an approving code review from at least one of the primary maintainers of the site. The recommended development environment is the IntelliJ IDEA IDE, which is the development environment utilized by the primary maintainers.
+![Fork Repository Image](/images/fork_repo.png)
+If you would like to contribute to the project, be sure to create a fork of the repository so that you have your own remote copy. The primary maintainers of the project utilize the github Pull request system for issuing commits to the base branch of the repository. 
+![Pull Request Example Image](/images/pull_request_example.png)
+If you would like to implement a new feature or bug fix, create a new branch on your local repository, implement the feature, push the changes to your fork, and then issue a pull request from the fork to the master branch at [the Small Kine Jobs github repository](https://github.com/smallkinejobs/application). Pull requests will be accepted and merged pending an approving code review from at least one of the primary maintainers of the site. The recommended development environment is the IntelliJ IDEA IDE, which is the development environment utilized by the primary maintainers.
 
 ## Concept pages
 <img height="50%" width="50%" src = "/images/Landing.jpeg">land
