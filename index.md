@@ -16,7 +16,7 @@ Users can go onto the [Small Kine Jobs App](http://smallkinejobs.meteorapp.com/)
 ![Image of Landing Page](/images/landingpagedraft2.PNG)
 The first thing that the user sees is the option to sign up for the application. That way they can start their job/employee search as soon as possible. Returning users can use the tab in the top right corner to login to their profiles
 
-![Image of Landing Page Testimonial](/images/landingpagetestimonialsdraft.PNG)
+![Image of Landing Page Testimonial](/images/finalTestimonials.PNG)
 Then at the bottom of the landing page we finally have the testimonials component, which updates when people who like small kine jobs give a review of the site. 
 
 ### The Login Page
