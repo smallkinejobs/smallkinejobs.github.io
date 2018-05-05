@@ -23,32 +23,63 @@ Then at the bottom of the landing page we finally have the testimonials componen
 ![Image of Sign In Page](/images/sign_in.png)
 If you already have your account created you can go to the login page
 
-### The sign up page for employees
+### Employer Sign up
+![Image of Sign Up Employer Page](/images/finalEmployerSignUp.PNG)
+Users can sign up as Employees on this page 
 
-![Image of Employee Sign Up Page](/images/employeesignupdraft.PNG)
-Here helpers can list their skills as well as basic information for employers to see. Adding skills also allows helpers to find jobs quickers. Small Kine Jobs assists helpers to find jobs that are catered to their skills.
+### Helper Sign up 
+![Image of Sign Up Helper Page](/images/finalHelperSignUp.PNG)
+Users can also sign up as a Helper as well
 
-### The sign up page for employers
+### Step 1: Employer posts a job
+![Image of Emploer Landing Page](/images/finalEmployerLanding.PNG)
+On the employer landing page, the employer can post a new job
 
-![Image of Employer Sign Up Page](/images/employersignupdraft.PNG)
-Here employers can add their contact information
+![Image of Sign Post a job modal](/images/finalPostAJob.PNG)
+Here the employer can give details of the job that's at hand, as well as the skills that are involved
 
+### Step 2: Helper responds to the job posting
+![Image of Sign Up Helper Landing](/images/finalEmployeeLandingExample.PNG)
+Here the Helper can see what jobs are currently posted and then apply those jobs.
 
-### The Employer Landing Page
-![Image of Employer Landing Page](/images/employer_landing.png)
-If you are logged in as an employer, you are greeted with a list of the jobs that you have posted on the system. Each job card is decorated to indicate its current status. Jobs can be open/closed for applications, in progress, or completed. Employers are able to submit feedback on completed jobs to rate the performance of the individual(s) who completed that job.
+![Image of Applying to a Job Modal](/images/finalApplyToJobs.PNG)
+This is where the helper confirms to join the job they are interested in
 
-### Create Job Modal
-![Image of Create Job Modal](/images/pos_job_modal.png)
-By clicking the 'Create New Job' button on the top right of the page, employers are able to add a new Job to the system using the corresponding form displayed in the Modal that pops up.
+### Step 3: Employee Responds to Helper's application to the job
+![Image of Employer Landing Page with Hiring jobs](/images/finalHireEmployeeLanding.PNG)
+The employer can hire applicants to any jobs with a response
 
-### The Employee Landing Page
-![Image of Employee Landing Page](/images/employee_landing.png)
-If you are logged in as an employee, you are greeted with a list of the jobs which you have applied for, as well as their current status. By scrolling down, you can also view a list of recommended jobs, based on matches between the required skills for the job, and the skills you have listed in your profile.
+![Image of Hire Helper Modal](/images/finalHireHelper.PNG)
+This is where the employer hires the Helper that they choose
 
-### Sidebar for both pages
-![Image of Landing Page Sidebar](/images/landing_sidebar.png)
-By pressing the menu button on the top left, a sidebar appears displaying some of your account info, including your average rating performance on previously completed jobs, how much money you have made through the site, your number of completed jobs, as well as your username and profile photo.
+![Image of In progrss photo](/images/finalInProgress.PNG)
+The job will then be in progress.
+
+### Step: 4 Helper does job, then marks it complete and rates the Employer
+![Image of Helper completing on the landing Page](/images/finalcompleteJobHelper.PNG)
+Here the Helper will mark the job complete once the task is done
+
+![Image of rating modal for Helper](/images/finalHelperSubmitFeedback.PNG)
+Then the Helper can rate the employee, this rating helps others see how good of an employer/employee you are
+
+### Step 5: Employer marks the job as actually completed, closes the job, then rates the Helper
+
+![Image of Employer seeing complete job](/images/finalEmployerCompletedSubmitFeedback.PNG)
+Here the employer can verify that the job is completed and then submit feedback
+
+![Image of Sign Up Helper Page](/images/finalRateHelper.PNG)
+Here the employer can also rate the employee.
+
+### Step 6: Job completed!
+![Image of Job closed](/images/finalHelperJobClosed.PNG)
+Now that the job is closed, another employer needs to post another job.
+
+![Image of dropdown of Past User](/images/finalPastUsers.PNG)
+![Image of Hire Past Helpers](/images/finalInvitePastUserToOtherJob.PNG)
+If the employer wishes, they may also invite the Helper they've just hired to do another job if they wish. 
+
+![Image of User rating](/images/SeeAvgRating.PNG)
+You can also see how much you've been paid, as well as your average user rating as an employer, employee, or both!
 
 ## Community Feedback
 
@@ -57,6 +88,13 @@ The initial launch of the app was small step in the right direction but not a su
 
 ### M3 Deployment
 This launch of the app was slightly more successful, but it still had it's problems. The users that were asked to use the app were from the university, some were graduate students and others were graduates. Feedback was obtained via email and messenger. Users were able to leave a testimony and sign up, but due to a bug, there were no jobs posted and therefore no jobs were applied. In hindsight if we actually posted jobs to apply for in the beginning, as well as putting a "create job" button. Unfortunately we only used created profiles with jobs in them to do the initial testing. The overall attitude towards the potential of the job is the same. This would allow people to find help fairly quickly, but as well as allowing people to find a quick way to get cash without having to go through the lengthy process for a regular job.
+
+## Future Development
+*Connect UH Login
+*Put in a payment system, online payment method
+*Have the ability to post a profile picture
+*When someone wants to apply for a job when they apply allow them to see a better description
+
 
 ## Developers Guide 
 First [Install Meteor](https://www.meteor.com/install)
