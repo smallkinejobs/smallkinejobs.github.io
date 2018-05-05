@@ -3,7 +3,7 @@
 * [Link to the application repository](https://github.com/smallkinejobs/application)
 * [Milestone 1 project board](https://github.com/smallkinejobs/application/projects/1)
 * [Milestone 2 project board](https://github.com/smallkinejobs/application/projects/2)
-* [Milestone 2 project board](https://github.com/smallkinejobs/application/projects/3)
+* [Milestone 3 project board](https://github.com/smallkinejobs/application/projects/3)
 
 ## Small Kine Overview
 The Small Kine Jobs app will be used to help students who would like to find short term employment. Reasons for needing short term employment could be: The student is only at the University for a year or less, a student needing quick cash, or even if an employer needs an employee for a short period of time. This app would provide a quick and easy outlet to find an employer/employee without having to go to a temporary job agency, which can sometimes have long replying periods or sometimes too many applicants. 
@@ -56,7 +56,7 @@ By pressing the menu button on the top left, a sidebar appears displaying some o
 The initial launch of the app was small step in the right direction but not a success. Due to a bug within a portion of the code some users would receive an error message. The bug was determined to be from an error which needed an image, but there was no image to be found. But when the users didn’t get the bug, they found it easy to log in and sign up. They couldn’t really interact with other users, so we’ll start that in M3. But our landing pages and sign up pages did what they were supposed to do. Engage the user and have them use the website immediately. There should be a delete button for the job creation as well in case the job being posted isn’t correct. There also may need to be a filter for what jobs are legitimate or not as well, so that way spam can be avoided in job postings. The job postings can also be seen live as soon as they are posted by a user. 
 
 ### M3 Deployment
-Coming Soon!
+This launch of the app was slightly more successful, but it still had it's problems. The users that were asked to use the app were from the university, some were graduate students and others were graduates. Feedback was obtained via email and messenger. Users were able to leave a testimony and sign up, but due to a bug, there were no jobs posted and therefore no jobs were applied. In hindsight if we actually posted jobs to apply for in the beginning, as well as putting a "create job" button. Unfortunately we only used created profiles with jobs in them to do the initial testing. The overall attitude towards the potential of the job is the same. This would allow people to find help fairly quickly, but as well as allowing people to find a quick way to get cash without having to go through the lengthy process for a regular job.
 
 ## Developers Guide 
 First [Install Meteor](https://www.meteor.com/install)
