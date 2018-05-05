@@ -78,7 +78,7 @@ Now that the job is closed, another employer needs to post another job.
 ![Image of Hire Past Helpers](/images/finalInvitePastUserToOtherJob.PNG)
 If the employer wishes, they may also invite the Helper they've just hired to do another job if they wish. 
 
-![Image of User rating](/images/SeeAvgRating.PNG)
+![Image of User rating](/images/finalSeeAvgRating.PNG)
 You can also see how much you've been paid, as well as your average user rating as an employer, employee, or both!
 
 ## Community Feedback
