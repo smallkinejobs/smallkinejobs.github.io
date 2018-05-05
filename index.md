@@ -42,11 +42,11 @@ Here the employer can give details of the job that's at hand, as well as the ski
 ![Image of Sign Up Helper Landing](/images/finalEmployeeLandingExample.PNG)
 Here the Helper can see what jobs are currently posted and then apply those jobs.
 
-![Image of Applying to a Job Modal](/images/finalApplyToJobs.PNG)
+![Image of Applying to a Job Modal](/images/finalApplyToJob.PNG)
 This is where the helper confirms to join the job they are interested in
 
-### Step 3: Employee Responds to Helper's application to the job
-![Image of Employer Landing Page with Hiring jobs](/images/finalHireEmployeeLanding.PNG)
+### Step 3: Employer Responds to Helper's application to the job
+![Image of Employer Landing Page with Hiring jobs](/images/finalHireEmployerLanding.PNG)
 The employer can hire applicants to any jobs with a response
 
 ![Image of Hire Helper Modal](/images/finalHireHelper.PNG)
